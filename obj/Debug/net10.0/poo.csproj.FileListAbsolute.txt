@@ -1,0 +1,15 @@
+C:\Users\askdo\Desktop\poo\bin\Debug\net10.0\poo.exe
+C:\Users\askdo\Desktop\poo\bin\Debug\net10.0\poo.deps.json
+C:\Users\askdo\Desktop\poo\bin\Debug\net10.0\poo.runtimeconfig.json
+C:\Users\askdo\Desktop\poo\bin\Debug\net10.0\poo.dll
+C:\Users\askdo\Desktop\poo\bin\Debug\net10.0\poo.pdb
+C:\Users\askdo\Desktop\poo\obj\Debug\net10.0\poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\askdo\Desktop\poo\obj\Debug\net10.0\poo.AssemblyInfoInputs.cache
+C:\Users\askdo\Desktop\poo\obj\Debug\net10.0\poo.AssemblyInfo.cs
+C:\Users\askdo\Desktop\poo\obj\Debug\net10.0\poo.csproj.CoreCompileInputs.cache
+C:\Users\askdo\Desktop\poo\obj\Debug\net10.0\poo.sourcelink.json
+C:\Users\askdo\Desktop\poo\obj\Debug\net10.0\poo.dll
+C:\Users\askdo\Desktop\poo\obj\Debug\net10.0\refint\poo.dll
+C:\Users\askdo\Desktop\poo\obj\Debug\net10.0\poo.pdb
+C:\Users\askdo\Desktop\poo\obj\Debug\net10.0\poo.genruntimeconfig.cache
+C:\Users\askdo\Desktop\poo\obj\Debug\net10.0\ref\poo.dll
