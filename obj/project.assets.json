@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\askdo\\Desktop\\poo\\poo.csproj",
+      "projectUniqueName": "C:\\Users\\askdo\\Desktop\\po\\poo.csproj",
       "projectName": "poo",
-      "projectPath": "C:\\Users\\askdo\\Desktop\\poo\\poo.csproj",
+      "projectPath": "C:\\Users\\askdo\\Desktop\\po\\poo.csproj",
       "packagesPath": "C:\\Users\\askdo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\askdo\\Desktop\\poo\\obj\\",
+      "outputPath": "C:\\Users\\askdo\\Desktop\\po\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\askdo\\AppData\\Roaming\\NuGet\\NuGet.Config"
