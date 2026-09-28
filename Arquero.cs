@@ -14,8 +14,7 @@ public class Arquero : Personaje
     }
     public override void RecibirDano(int dano)
     {
-        Random random = new Random();
-        int resultado = random.Next(0, 101);
+        int resultado = Random.Shared.Next(100);
 
         if (resultado < Agilidad)
         {
